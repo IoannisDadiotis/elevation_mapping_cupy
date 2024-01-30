@@ -1,5 +1,5 @@
 #### Plugins ########
-plugin_config_file: '$(rospack find elevation_mapping_cupy)/config/core/plugin_config.yaml'
+plugin_config_file: '$(rospack find elevation_mapping_cupy)/config/setups/centauro/centauro_plugin_config.yaml'
 
 #### Channel Fusions ########
 pointcloud_channel_fusions:
