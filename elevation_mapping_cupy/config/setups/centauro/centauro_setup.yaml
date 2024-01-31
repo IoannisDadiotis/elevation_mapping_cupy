@@ -45,7 +45,7 @@ subscribers:
 
 publishers:
   elevation_map_raw:
-    layers: ['elevation', 'traversability', 'variance','rgb']
+    layers: ['elevation', 'color', 'variance','rgb']
     basic_layers: ['elevation']
     fps: 5.0
   elevation_map_recordable:
